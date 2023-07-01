@@ -19,7 +19,7 @@ My tool
 ![Static Badge](https://img.shields.io/badge/%20Eclipse%20IDE-%232C2255?logo=Eclipse%20IDE&logoColor=%23fff)
 ****
 <div>
-  <span align="left">哈哈哈，我是菜鸡</span>
+  <span align="left">我是菜鸡</span>
   <img src="https://github-readme-stats.vercel.app/api?username=MaYang666&show_icons=true&theme=radical" align="right"/>
 </div>
 <!--
