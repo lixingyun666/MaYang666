@@ -1,7 +1,7 @@
 ### 😎 Hi! Nice to see you
 ****
 *Welcome to my homepage*  
-*I am Yang. From 🇨🇳*  
+*I am Yang.  
 <br>
 What I learned  
 ![Static Badge](https://img.shields.io/badge/python-3.10-orange?logo=python&logoColor=orange&link=https%3A%2F%2Fwww.runoob.com%2Fpython%2Fpython-tutorial.html)
